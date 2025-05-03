@@ -6,7 +6,6 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Index from "./pages/Index";
 import Templates from "./pages/Templates";
 import MindMap from "./pages/MindMap";
-
 import WritingCoach from "./pages/WritingCoach";
 import NotFound from "./pages/NotFound";
 
