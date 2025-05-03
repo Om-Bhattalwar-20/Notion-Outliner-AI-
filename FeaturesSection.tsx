@@ -1,5 +1,4 @@
 import { Check, Layout, PenTool, ToggleRight, ArrowRight } from "lucide-react";
-
 const features = [
   {
     icon: <Layout className="h-8 w-8 text-blue-500" />,
