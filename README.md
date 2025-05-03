@@ -1,4 +1,11 @@
+
+ ![Alt text](<img width="1639" alt="Screenshot 2025-05-03 at 11 05 56 AM" src="https://github.com/user-attachments/assets/12340ba1-36ec-4864-aaec-a420b4521335" />
+)
+
+ 
+ 
  ✨ AI Notion Productivity Platform
+
 
 A sleek productivity platform inspired by [Notion](https://www.notion.so/), built with custom AI features including visual template generation, a mind map ↔ linear note switcher, and a real-time grammar & structure coach.
 
