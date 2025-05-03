@@ -15,6 +15,7 @@ const MindMapToggle = () => {
           <h2 className="heading-lg">Two ways to visualize your ideas</h2>
           <p className="paragraph max-w-2xl mx-auto">
             Switch between linear notes and mind map view with one click.
+            
             Organize your thoughts in the way that works best for you.
           </p>
 
