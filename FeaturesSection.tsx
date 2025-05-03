@@ -1,4 +1,3 @@
-
 import { Check, Layout, PenTool, ToggleRight, ArrowRight } from "lucide-react";
 
 const features = [
