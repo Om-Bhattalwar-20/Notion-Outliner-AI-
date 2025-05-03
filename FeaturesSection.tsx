@@ -6,6 +6,7 @@ const features = [
     description:
       "Browse and generate custom templates with our AI engine. From meeting notes to project plans, create the perfect template in seconds.",
   },
+  
   {
     icon: <ToggleRight className="h-8 w-8 text-blue-500" />,
     title: "Mind Map & Linear Switcher",
