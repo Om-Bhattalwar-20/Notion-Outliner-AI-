@@ -20,6 +20,7 @@ const MindMapToggle = () => {
           </p
           
 
+            
           <div className="flex justify-center mt-8">
             <ToggleGroup
               type="single"
