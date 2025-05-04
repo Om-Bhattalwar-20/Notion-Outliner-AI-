@@ -8,6 +8,7 @@ import { List, Layout } from "lucide-react";
 const MindMapToggle = () => {
   const [viewMode, setViewMode] = useState<"linear" | "mindmap">("linear");
   
+  
   return (
     <section className="py-20 bg-background">
       
