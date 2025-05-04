@@ -5,6 +5,7 @@ const Footer = () => {
     <footer className="bg-notion-gray-100 dark:bg-notion-gray-700/20 py-12 mt-20">
       <div className="container mx-auto px-4">
         <div className="grid md:grid-cols-4 gap-8">
+          
           <div>
             <div className="mb-4">
               
