@@ -1,4 +1,5 @@
 const Footer = () => {
+  
   const currentYear = new Date().getFullYear();
   return (
     <footer className="bg-notion-gray-100 dark:bg-notion-gray-700/20 py-12 mt-20">
