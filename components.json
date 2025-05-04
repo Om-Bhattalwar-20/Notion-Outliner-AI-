@@ -8,9 +8,6 @@
     "config": "tailwind.config.ts",
     
     "css": "src/index.css",
-    
-    
-    
     "baseColor": "slate",
     "cssVariables": true,
     
