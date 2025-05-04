@@ -18,7 +18,8 @@ const MindMapToggle = () => {
             Switch between linear notes and mind map view with one click.
             
             Organize your thoughts in the way that works best for you.
-          </p>
+          </p
+          
 
           <div className="flex justify-center mt-8">
             <ToggleGroup
