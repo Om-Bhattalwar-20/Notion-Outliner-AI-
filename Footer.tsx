@@ -11,9 +11,7 @@ const Footer = () => {
               <img 
                 src="/lovable-uploads/a07b51fe-da4b-4848-9adc-d83399464621.png" 
                 alt="Notion Logo" 
-                className="h-8" 
-                
-              />
+                className="h-8"/>
             </div>
             <p className="text-notion-gray-500 dark:text-notion-gray-300 mb-4">
               Your AI-powered workspace for notes, tasks, and knowledge management.
