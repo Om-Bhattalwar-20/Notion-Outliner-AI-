@@ -22,6 +22,7 @@ const MindMapToggle = () => {
               type="single"
               
               value={viewMode}
+              
               onValueChange={(value) => value && setViewMode(value as "linear" | "mindmap")}
               className="border rounded-full p-1 bg-background"
             >
