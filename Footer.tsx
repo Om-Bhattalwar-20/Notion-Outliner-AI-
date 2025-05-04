@@ -8,7 +8,6 @@ const Footer = () => {
         <div className="grid md:grid-cols-4 gap-8">
           <div>
             <div className="mb-4">
-              
               <img 
                 src="/lovable-uploads/a07b51fe-da4b-4848-9adc-d83399464621.png" 
                 alt="Notion Logo" 
