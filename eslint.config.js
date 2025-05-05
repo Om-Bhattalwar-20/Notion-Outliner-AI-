@@ -19,8 +19,6 @@ export default tseslint.config(
 
       
       
-      
-      
       "react-hooks": reactHooks,
       "react-refresh": reactRefresh,
     },
