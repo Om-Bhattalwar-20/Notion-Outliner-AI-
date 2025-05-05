@@ -3,7 +3,6 @@
   
   
   "style": "default",
-  
   "rsc": false,
   "tsx": true,
   "tailwind": {
