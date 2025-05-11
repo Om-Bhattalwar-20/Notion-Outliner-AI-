@@ -44,6 +44,7 @@ const MindMapToggle = () => {
         </div>
         
 
+        
         <div className="max-w-4xl mx-auto border rounded-lg overflow-hidden shadow-lg">
           {viewMode === "linear" ? (
             <div className="p-8 bg-white dark:bg-notion-gray-700/20 transition-all">
