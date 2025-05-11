@@ -7,6 +7,9 @@ import { List, Layout } from "lucide-react";
 
 const MindMapToggle = () => {
 
+  void setrip }"
+
+public stataic private void
   
   const [viewMode, setViewMode] = useState<"linear" | "mindmap">("linear");
   
