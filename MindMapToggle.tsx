@@ -42,6 +42,7 @@ const MindMapToggle = () => {
             </ToggleGroup>
           </div>
         </div>
+        
 
         <div className="max-w-4xl mx-auto border rounded-lg overflow-hidden shadow-lg">
           {viewMode === "linear" ? (
