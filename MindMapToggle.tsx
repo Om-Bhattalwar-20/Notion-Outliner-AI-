@@ -4,7 +4,6 @@ import { Button } from "./ui/button";
 import { ToggleGroup, ToggleGroupItem } from "./ui/toggle-group";
 import { List, Layout } from "lucide-react";
 
-
 const MindMapToggle = () => {
   
   const [viewMode, setViewMode] = useState<"linear" | "mindmap">("linear");
