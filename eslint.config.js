@@ -17,7 +17,7 @@ export default tseslint.config(
       globals: globals.browser,
 
 
-      
+    
         },
     
     plugins: {
