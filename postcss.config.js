@@ -3,6 +3,7 @@ export default {
     tailwindcss: {},
     autoprefixer: {},
 
+
     
   },
 }
